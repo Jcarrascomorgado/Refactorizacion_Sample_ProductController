@@ -1,0 +1,10 @@
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\Infraestructura.dll
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\Infraestructura.pdb
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\Domain.dll
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\EntityFramework.dll
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\Domain.pdb
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\EntityFramework.xml
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\bin\Debug\es\EntityFramework.resources.dll
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\obj\Debug\Infraestructura.csprojResolveAssemblyReference.cache
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\obj\Debug\Infraestructura.dll
+c:\users\pedro-hurtado\documents\visual studio 2012\Projects\MvcApplication14\Infraestructura\obj\Debug\Infraestructura.pdb
